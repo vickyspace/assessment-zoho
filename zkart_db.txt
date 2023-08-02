@@ -1,0 +1,4 @@
+Mobile Apple 6S 60000 10 0
+Mobile Motorola G 12000 5 4
+Laptop HP Elite 56000 20 0
+Tablet Google ChromeBook 8000 12 2
